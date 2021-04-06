@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Th3tru3th
+- 👋 Hi, I’m @Th3tru3th but you can call me Gabriel.
 - 👀 I’m interested in learning as much as I can.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on anything I am able to. 
